@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-aleng",
+  "version": "0.0.1",
+  "description": "js eslint config ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aLengLiu/eslint-config-aleng.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "aleng.liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aLengLiu/eslint-config-aleng/issues"
+  },
+  "homepage": "https://github.com/aLengLiu/eslint-config-aleng#readme"
+}
